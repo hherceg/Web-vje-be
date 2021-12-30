@@ -1,2 +1,2 @@
-# Web-vje-be
+# Web-vjezbe
 Vježbe iz kolegija web aplikacije
